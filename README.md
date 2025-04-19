@@ -15,7 +15,6 @@
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [Actions](#actions)
-- [License](#license)
 
 ---
 
@@ -162,8 +161,4 @@ Check out CoolStreamer at https://twitch.tv/CoolStreamer
 Huge shoutout to CoolStreamer!
 ```
 
----
 
-## License
-
-This project is licensed under the **MIT License**.  
